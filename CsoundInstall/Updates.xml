@@ -1,0 +1,33 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>Cabbage</Name>
+  <DisplayName>Cabbage</DisplayName>
+  <Description>Install the Cabbage frontend.</Description>
+  <Version>2.0</Version>
+  <ReleaseDate>2017-10-17</ReleaseDate>
+  <Default>false</Default>
+  <UpdateFile UncompressedSize="49632691" OS="Any" CompressedSize="8371080"/>
+  <DownloadableArchives>Cabbage.7z</DownloadableArchives>
+  <Licenses>
+   <License name="GPL v3" file="license.txt"/>
+  </Licenses>
+  <SHA1>ca9fc1fae2f96d986f227f2b09b248cb9b52cd4e</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>CsoundCore</Name>
+  <DisplayName>Csound Core</DisplayName>
+  <Description>Install the Csound Core package.</Description>
+  <Version>6.09.1</Version>
+  <ReleaseDate>2017-10-17</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="14084722" OS="Any" CompressedSize="2365205"/>
+  <DownloadableArchives>Csound6.7z</DownloadableArchives>
+  <Licenses>
+   <License name="LGPL v2" file="license.txt"/>
+  </Licenses>
+  <SHA1>abc9970b19e3281d371693ed62cf7a97b990f9dc</SHA1>
+ </PackageUpdate>
+</Updates>
