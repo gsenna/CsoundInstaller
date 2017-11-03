@@ -1,7 +1,7 @@
 <Updates>
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
- <Checksum>true</Checksum>
+ <Checksum>false</Checksum>
  <PackageUpdate>
   <Name>Cabbage</Name>
   <DisplayName>Cabbage</DisplayName>
