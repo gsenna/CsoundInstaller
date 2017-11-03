@@ -24,7 +24,7 @@
   <ReleaseDate>2017-10-17</ReleaseDate>
   <Default>true</Default>
   <UpdateFile UncompressedSize="14084722" OS="Any" CompressedSize="2365205"/>
-  <DownloadableArchives>Csound6.7z</DownloadableArchives>
+  <DownloadableArchives>6.09.1Csound6.md</DownloadableArchives>
   <Licenses>
    <License name="LGPL v2" file="license.txt"/>
   </Licenses>
