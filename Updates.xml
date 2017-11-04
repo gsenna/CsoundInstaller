@@ -3,7 +3,7 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>CsoundC</Name>
+  <Name>CsoundCore</Name>
   <DisplayName>Csound Core</DisplayName>
   <Description>Install the Csound Core package.</Description>
   <Version>6.09.1</Version>
