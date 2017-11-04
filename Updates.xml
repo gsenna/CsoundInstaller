@@ -1,0 +1,19 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>6.09.1</Name>
+  <DisplayName>Csound Core</DisplayName>
+  <Description>Install the Csound Core package.</Description>
+  <Version>6.09.1</Version>
+  <ReleaseDate>2017-10-17</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="14084722" OS="Any" CompressedSize="2365205"/>
+  <DownloadableArchives>Csound6.7z</DownloadableArchives>
+  <Licenses>
+   <License name="LGPL v2" file="license.txt"/>
+  </Licenses>
+  <SHA1>abc9970b19e3281d371693ed62cf7a97b990f9dc</SHA1>
+ </PackageUpdate>
+</Updates>
